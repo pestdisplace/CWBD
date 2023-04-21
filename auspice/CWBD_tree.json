@@ -1,0 +1,1624 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "Vietnam",
+    "country_confidence": {
+      "Cambodia": 0.11872986082826248,
+      "Lao_PDR": 0.14428931271920029,
+      "Thailand": 0.30825337721432233,
+      "Vietnam": 0.3246261723389274
+    },
+    "country_entropy": 1.495848037251994,
+    "date": "1979-09-11",
+    "div": 0,
+    "location": "Rayong",
+    "location_confidence": {
+      "Mindanao": 0.0765524817933386,
+      "Rayong": 0.13259665155122413,
+      "Vientiane": 0.09703622170665192,
+      "_Yen_Bai": 0.09348759861401693
+    },
+    "location_entropy": 2.5360715244066587,
+    "num_date": 1979.698082794232,
+    "num_date_confidence": [
+      1961.4212333389335,
+      1987.795733516161
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {
+        "CTheo_35": [
+          "R17G",
+          "C28R",
+          "V32A",
+          "E42K",
+          "F44L",
+          "*81S",
+          "Q99*",
+          "R135*",
+          "Q150*",
+          "H166R",
+          "Q204*",
+          "L235F",
+          "E253K",
+          "S257P",
+          "W261*",
+          "I291A",
+          "R318G",
+          "V325I",
+          "H326R",
+          "S328T",
+          "S329Y",
+          "C337Y",
+          "V347A",
+          "H353Y",
+          "A387T"
+        ]
+      },
+      "attr": {
+        "clock_length": 0.011194337591241783,
+        "country": "Thailand",
+        "country_confidence": {
+          "Thailand": 0.9999989255922038
+        },
+        "country_entropy": 1.6948362673341545e-05,
+        "date": "2016-12-25",
+        "div": 0.023210214604844202,
+        "location": "Rayong",
+        "location_confidence": {
+          "Rayong": 0.99999723141976
+        },
+        "location_entropy": 4.457406014897143e-05,
+        "num_date": 2016.9847574949465,
+        "num_date_confidence": [
+          2015.7267677656987,
+          2017.1649240175468
+        ]
+      },
+      "branch_length": 0.01119434,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 6.817004335614766e-05,
+            "country": "Thailand",
+            "country_confidence": {
+              "Thailand": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2017-03-18",
+            "div": 0.023210214604844202,
+            "location": "Rayong",
+            "location_confidence": {
+              "Rayong": 1.0
+            },
+            "location_entropy": -1.000088900581841e-12,
+            "num_date": 2017.2118217772443,
+            "num_date_confidence": [
+              2017.002737850787,
+              2017.9993155373031
+            ],
+            "raw_date": "2017-XX-XX"
+          },
+          "branch_length": 6.817e-05,
+          "clade": 0,
+          "muts": [],
+          "strain": "Ray-2",
+          "yvalue": 28
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 6.817004335614766e-05,
+            "country": "Thailand",
+            "country_confidence": {
+              "Thailand": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2017-03-18",
+            "div": 0.023210214604844202,
+            "location": "Rayong",
+            "location_confidence": {
+              "Rayong": 1.0
+            },
+            "location_entropy": -1.000088900581841e-12,
+            "num_date": 2017.2118217772443,
+            "num_date_confidence": [
+              2017.002737850787,
+              2017.9993155373031
+            ],
+            "raw_date": "2017-XX-XX"
+          },
+          "branch_length": 6.817e-05,
+          "clade": 1,
+          "muts": [],
+          "strain": "Ray-4",
+          "yvalue": 27
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 6.817004335614766e-05,
+            "country": "Thailand",
+            "country_confidence": {
+              "Thailand": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2017-03-18",
+            "div": 0.023210214604844202,
+            "location": "Rayong",
+            "location_confidence": {
+              "Rayong": 1.0
+            },
+            "location_entropy": -1.000088900581841e-12,
+            "num_date": 2017.2118217772443,
+            "num_date_confidence": [
+              2017.002737850787,
+              2017.9993155373031
+            ],
+            "raw_date": "2017-XX-XX"
+          },
+          "branch_length": 6.817e-05,
+          "clade": 2,
+          "muts": [],
+          "strain": "Ray-1",
+          "yvalue": 26
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 6.817004335614766e-05,
+            "country": "Thailand",
+            "country_confidence": {
+              "Thailand": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2017-03-18",
+            "div": 0.023210214604844202,
+            "location": "Rayong",
+            "location_confidence": {
+              "Rayong": 1.0
+            },
+            "location_entropy": -1.000088900581841e-12,
+            "num_date": 2017.2118217772443,
+            "num_date_confidence": [
+              2017.002737850787,
+              2017.9993155373031
+            ],
+            "raw_date": "2017-XX-XX"
+          },
+          "branch_length": 6.817e-05,
+          "clade": 3,
+          "muts": [],
+          "strain": "Ray-3",
+          "yvalue": 25
+        }
+      ],
+      "clade": 4,
+      "muts": [
+        "A49G",
+        "T82C",
+        "T95C",
+        "G124A",
+        "T130C",
+        "G242C",
+        "C295T",
+        "C403T",
+        "C448T",
+        "A497G",
+        "C610T",
+        "C703T",
+        "G757A",
+        "T769C",
+        "G782A",
+        "A871G",
+        "T872C",
+        "C952G",
+        "G973A",
+        "A977G",
+        "T982A",
+        "C986A",
+        "G1010A",
+        "T1040C",
+        "C1057T",
+        "G1159A"
+      ],
+      "strain": "NODE_0000018",
+      "yvalue": 26.5
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.007907878580335597,
+        "country": "Vietnam",
+        "country_confidence": {
+          "Cambodia": 0.00826445136433748,
+          "Lao_PDR": 0.016060617496637505,
+          "Philippines": 0.00913265182037938,
+          "Vietnam": 0.9625311430168321
+        },
+        "country_entropy": 0.20776734216237397,
+        "date": "2006-01-13",
+        "div": 3.998828077305403e-19,
+        "location": "_Yen_Bai",
+        "location_confidence": {
+          "Dong_Nai": 0.11551960773388562,
+          "Vientiane": 0.21288356699131813,
+          "Yen__Bai": 0.11389195545597816,
+          "_Yen_Bai": 0.29739213102612416
+        },
+        "location_entropy": 2.0231702588951856,
+        "num_date": 2006.038050996407,
+        "num_date_confidence": [
+          2000.1994682535972,
+          2008.1574310882636
+        ]
+      },
+      "branch_length": 0.00790788,
+      "children": [
+        {
+          "aa_muts": {
+            "CTheo_35": [
+              "F163L"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.0017894015379012868,
+            "country": "Vietnam",
+            "country_confidence": {
+              "Cambodia": 0.007033894054009118,
+              "Lao_PDR": 0.005883184661977071,
+              "Vietnam": 0.9869789571916714
+            },
+            "country_entropy": 0.07903197955034236,
+            "date": "2011-12-30",
+            "div": 0.0016968769452125108,
+            "location": "_Yen_Bai",
+            "location_confidence": {
+              "Dong_Nai": 0.1881766027469385,
+              "Kratie": 0.10862958324611098,
+              "Vientiane": 0.27078388200586856,
+              "_Yen_Bai": 0.3904004098371066
+            },
+            "location_entropy": 1.492685466396555,
+            "num_date": 2011.9982815601954,
+            "num_date_confidence": [
+              2011.3650777858018,
+              2012.5680033346064
+            ]
+          },
+          "branch_length": 0.0017894,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.00020917847202346932,
+                "country": "Vietnam",
+                "country_confidence": {
+                  "Vietnam": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-09-10",
+                "div": 0.0016968769452125113,
+                "location": "Dong_Nai",
+                "location_confidence": {
+                  "Dong_Nai": 1.0
+                },
+                "location_entropy": -1.000088900581841e-12,
+                "num_date": 2012.6950239602847,
+                "num_date_confidence": [
+                  2012.002737850787,
+                  2013.0020533880904
+                ],
+                "raw_date": "2012-XX-XX"
+              },
+              "branch_length": 0.00020918,
+              "clade": 5,
+              "muts": [],
+              "strain": "DNa-3",
+              "yvalue": 24
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0003015614265091506,
+                "country": "Cambodia",
+                "country_confidence": {
+                  "Cambodia": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2013-01-01",
+                "div": 0.0016968769452125113,
+                "location": "Kratie",
+                "location_confidence": {
+                  "Kratie": 1.0
+                },
+                "location_entropy": -1.000088900581841e-12,
+                "num_date": 2013.002737850787,
+                "num_date_confidence": [
+                  2013.002737850787,
+                  2013.8787034060547
+                ],
+                "raw_date": "2013-XX-XX"
+              },
+              "branch_length": 0.00030156,
+              "clade": 6,
+              "muts": [],
+              "strain": "Kra-1",
+              "yvalue": 23
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.00020917847202346932,
+                "country": "Vietnam",
+                "country_confidence": {
+                  "Vietnam": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-09-10",
+                "div": 0.0016968769452125113,
+                "location": "_Yen_Bai",
+                "location_confidence": {
+                  "_Yen_Bai": 1.0
+                },
+                "location_entropy": -1.000088900581841e-12,
+                "num_date": 2012.6950239602847,
+                "num_date_confidence": [
+                  2012.002737850787,
+                  2013.0020533880904
+                ],
+                "raw_date": "2012-XX-XX"
+              },
+              "branch_length": 0.00020918,
+              "clade": 7,
+              "muts": [],
+              "strain": "YBa-4",
+              "yvalue": 22
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0014676415870624503,
+                "country": "Lao_PDR",
+                "country_confidence": {
+                  "Cambodia": 0.0019175598786000023,
+                  "Lao_PDR": 0.9372281356519246,
+                  "Vietnam": 0.05972945934050246
+                },
+                "country_entropy": 0.24947712648979947,
+                "date": "2016-11-19",
+                "div": 0.0016968769452125113,
+                "location": "Vientiane",
+                "location_confidence": {
+                  "Dong_Nai": 0.017812856561746453,
+                  "Salavan": 0.03796064461565045,
+                  "Vientiane": 0.8682133950269714,
+                  "_Yen_Bai": 0.05011893051642347
+                },
+                "location_entropy": 0.6104852842328271,
+                "num_date": 2016.8867775509589,
+                "num_date_confidence": [
+                  2013.549767555779,
+                  2019.879083938096
+                ]
+              },
+              "branch_length": 0.00146764,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00183615527103033,
+                    "country": "Lao_PDR",
+                    "country_confidence": {
+                      "Lao_PDR": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2023-01-01",
+                    "div": 0.0016968769452125117,
+                    "location": "Vientiane",
+                    "location_confidence": {
+                      "Vientiane": 1.0
+                    },
+                    "location_entropy": -1.000088900581841e-12,
+                    "num_date": 2023.002737850787,
+                    "num_date_confidence": [
+                      2023.002737850787,
+                      2023.2737850787132
+                    ],
+                    "raw_date": "2023-XX-XX"
+                  },
+                  "branch_length": 0.00183616,
+                  "clade": 8,
+                  "muts": [],
+                  "strain": "Vie-4",
+                  "yvalue": 21
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0009112766989532253,
+                    "country": "Lao_PDR",
+                    "country_confidence": {
+                      "Lao_PDR": 0.9968015061803945,
+                      "Vietnam": 0.0029820424791634184
+                    },
+                    "country_entropy": 0.02255546146761206,
+                    "date": "2019-12-02",
+                    "div": 0.0016968769452125117,
+                    "location": "Vientiane",
+                    "location_confidence": {
+                      "Dong_Nai": 0.00579416106029496,
+                      "Salavan": 0.09088803242924741,
+                      "Vientiane": 0.8701802812792476,
+                      "_Yen_Bai": 0.01916758717742971
+                    },
+                    "location_entropy": 0.5328873283289288,
+                    "num_date": 2019.9221047920091,
+                    "num_date_confidence": [
+                      2016.6262129121337,
+                      2020.8866485612125
+                    ]
+                  },
+                  "branch_length": 0.00091128,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0006246550289187419,
+                        "country": "Lao_PDR",
+                        "country_confidence": {
+                          "Lao_PDR": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2022-01-01",
+                        "div": 0.0016968769452125121,
+                        "location": "Vientiane",
+                        "location_confidence": {
+                          "Vientiane": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2022.002737850787,
+                        "num_date_confidence": [
+                          2022.002737850787,
+                          2022.8877160469865
+                        ],
+                        "raw_date": "2022-XX-XX"
+                      },
+                      "branch_length": 0.00062466,
+                      "clade": 9,
+                      "muts": [],
+                      "strain": "Vie-1",
+                      "yvalue": 20
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0003242259939444297,
+                        "country": "Lao_PDR",
+                        "country_confidence": {
+                          "Lao_PDR": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2021-01-01",
+                        "div": 0.0016968769452125121,
+                        "location": "Salavan",
+                        "location_confidence": {
+                          "Salavan": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2021.0020533880904,
+                        "num_date_confidence": [
+                          2020.1015968140684,
+                          2021.0020533880904
+                        ],
+                        "raw_date": "2020-XX-XX"
+                      },
+                      "branch_length": 0.00032423,
+                      "clade": 10,
+                      "muts": [],
+                      "strain": "Sal-1",
+                      "yvalue": 19
+                    }
+                  ],
+                  "clade": 11,
+                  "muts": [],
+                  "strain": "NODE_0000028",
+                  "yvalue": 19.5
+                }
+              ],
+              "clade": 12,
+              "muts": [],
+              "strain": "NODE_0000027",
+              "yvalue": 20.25
+            }
+          ],
+          "clade": 13,
+          "muts": [
+            "T487C"
+          ],
+          "strain": "NODE_0000021",
+          "yvalue": 22.125
+        },
+        {
+          "aa_muts": {
+            "CTheo_35": [
+              "R111H"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.00048257932809193417,
+            "country": "Vietnam",
+            "country_confidence": {
+              "Cambodia": 0.0020653748549348764,
+              "Lao_PDR": 0.013941829687009535,
+              "Philippines": 0.009901357786568876,
+              "Vietnam": 0.9734758303968831
+            },
+            "country_entropy": 0.1487565399374037,
+            "date": "2007-08-23",
+            "div": 7.997656154610806e-19,
+            "location": "_Yen_Bai",
+            "location_confidence": {
+              "Mindanao": 0.14803667527759254,
+              "Vientiane": 0.19171589445341664,
+              "Yen__Bai": 0.18372793233341778,
+              "_Yen_Bai": 0.26363661177276587
+            },
+            "location_entropy": 1.9806873892709649,
+            "num_date": 2007.645451012459,
+            "num_date_confidence": [
+              2003.8172347253026,
+              2009.3100037079987
+            ]
+          },
+          "branch_length": 0.00048258,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0005298998884841633,
+                "country": "Vietnam",
+                "country_confidence": {
+                  "Cambodia": 0.002798249470552525,
+                  "Lao_PDR": 0.02865642066974797,
+                  "Philippines": 0.004157953069200202,
+                  "Vietnam": 0.9636319576802921
+                },
+                "country_entropy": 0.18217430707370638,
+                "date": "2009-05-29",
+                "div": 1.199648423191621e-18,
+                "location": "Yen__Bai",
+                "location_confidence": {
+                  "Mindanao": 0.058234883343608795,
+                  "Vientiane": 0.23075960949903496,
+                  "Yen__Bai": 0.4608988160108141,
+                  "_Yen_Bai": 0.11916703354566857
+                },
+                "location_entropy": 1.6453448945639009,
+                "num_date": 2009.4104687819172,
+                "num_date_confidence": [
+                  2007.0335754552273,
+                  2011.3541321702985
+                ]
+              },
+              "branch_length": 0.0005299,
+              "children": [
+                {
+                  "aa_muts": {
+                    "CTheo_35": [
+                      "H327Y"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.0037804956362596067,
+                    "country": "Lao_PDR",
+                    "country_confidence": {
+                      "Lao_PDR": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2022-01-01",
+                    "div": 0.0025453115948843954,
+                    "location": "Vientiane",
+                    "location_confidence": {
+                      "Vientiane": 1.0
+                    },
+                    "location_entropy": -1.000088900581841e-12,
+                    "num_date": 2022.002737850787,
+                    "num_date_confidence": [
+                      2022.002737850787,
+                      2022.8996577686514
+                    ],
+                    "raw_date": "2022-XX-XX"
+                  },
+                  "branch_length": 0.0037805,
+                  "clade": 14,
+                  "muts": [
+                    "C979T",
+                    "C984T",
+                    "C987T"
+                  ],
+                  "strain": "Vie-2",
+                  "yvalue": 18
+                },
+                {
+                  "aa_muts": {
+                    "CTheo_35": [
+                      "R121C"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.0005871754569608803,
+                    "country": "Vietnam",
+                    "country_confidence": {
+                      "Lao_PDR": 0.00178025469840492,
+                      "Vietnam": 0.9975083070595606
+                    },
+                    "country_entropy": 0.019594781190463522,
+                    "date": "2011-05-13",
+                    "div": 0.000847880751393575,
+                    "location": "Yen__Bai",
+                    "location_confidence": {
+                      "Mindanao": 0.0012102722702976311,
+                      "Vientiane": 0.005932156710026783,
+                      "Yen__Bai": 0.9866232144874322,
+                      "_Yen_Bai": 0.002253982026473487
+                    },
+                    "location_entropy": 0.09605205174870948,
+                    "num_date": 2011.3662629570965,
+                    "num_date_confidence": [
+                      2009.6558066789303,
+                      2012.2502784273502
+                    ]
+                  },
+                  "branch_length": 0.00058718,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00019108474771509665,
+                        "country": "Vietnam",
+                        "country_confidence": {
+                          "Vietnam": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2012-01-01",
+                        "div": 0.0008478807513935755,
+                        "location": "Yen__Bai",
+                        "location_confidence": {
+                          "Yen__Bai": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2012.002737850787,
+                        "num_date_confidence": [
+                          2012.002737850787,
+                          2012.8763035701031
+                        ],
+                        "raw_date": "2012-XX-XX"
+                      },
+                      "branch_length": 0.00019108,
+                      "clade": 15,
+                      "muts": [],
+                      "strain": "YBa-2",
+                      "yvalue": 17
+                    },
+                    {
+                      "aa_muts": {
+                        "CTheo_35": [
+                          "I39T",
+                          "S255P"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0004911027990575105,
+                        "country": "Vietnam",
+                        "country_confidence": {
+                          "Vietnam": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2013-01-01",
+                        "div": 0.002544556764172267,
+                        "location": "Yen__Bai",
+                        "location_confidence": {
+                          "Yen__Bai": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2013.0020533880904,
+                        "num_date_confidence": [
+                          2012.1724551773762,
+                          2013.0020533880904
+                        ],
+                        "raw_date": "2012-XX-XX"
+                      },
+                      "branch_length": 0.0004911,
+                      "clade": 16,
+                      "muts": [
+                        "T116C",
+                        "T763C"
+                      ],
+                      "strain": "YBa-3",
+                      "yvalue": 16
+                    }
+                  ],
+                  "clade": 17,
+                  "muts": [
+                    "C361T"
+                  ],
+                  "strain": "NODE_0000016",
+                  "yvalue": 16.5
+                }
+              ],
+              "clade": 18,
+              "muts": [],
+              "strain": "NODE_0000029",
+              "yvalue": 17.25
+            },
+            {
+              "aa_muts": {
+                "CTheo_35": [
+                  "F44L",
+                  "P133S"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.0005094481534190414,
+                "country": "Vietnam",
+                "country_confidence": {
+                  "Cambodia": 0.002171779171191629,
+                  "Lao_PDR": 0.015963594306187642,
+                  "Philippines": 0.04877101160034337,
+                  "Vietnam": 0.9324298331887141
+                },
+                "country_entropy": 0.29677627592566735,
+                "date": "2009-05-05",
+                "div": 0.0016966761488841102,
+                "location": "Mindanao",
+                "location_confidence": {
+                  "Dong_Nai": 0.08724003433418585,
+                  "Mindanao": 0.3286642349790511,
+                  "Vientiane": 0.08932514993153397,
+                  "_Yen_Bai": 0.2863635645994201
+                },
+                "location_entropy": 1.8586688241454923,
+                "num_date": 2009.342347092159,
+                "num_date_confidence": [
+                  2006.4843738643701,
+                  2010.1465766714336
+                ]
+              },
+              "branch_length": 0.00050945,
+              "children": [
+                {
+                  "aa_muts": {
+                    "CTheo_35": [
+                      "R17G",
+                      "P158S",
+                      "K219E",
+                      "W275C",
+                      "F375L"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.0007352232940553952,
+                    "country": "Philippines",
+                    "country_confidence": {
+                      "Cambodia": 0.001578661480869585,
+                      "Lao_PDR": 0.003214698859004645,
+                      "Philippines": 0.5090581742790842,
+                      "Vietnam": 0.48550178230608304
+                    },
+                    "country_entropy": 0.7279083376802087,
+                    "date": "2011-10-16",
+                    "div": 0.006797093190922704,
+                    "location": "Mindanao",
+                    "location_confidence": {
+                      "Dong_Nai": 0.009369138840347421,
+                      "Mindanao": 0.8920554234353634,
+                      "Tay_Ninh": 0.03873897970968601,
+                      "_Yen_Bai": 0.028830032294125455
+                    },
+                    "location_entropy": 0.5429158146444579,
+                    "num_date": 2011.7912666083328,
+                    "num_date_confidence": [
+                      2010.3672315569218,
+                      2012.778366854073
+                    ]
+                  },
+                  "branch_length": 0.00073522,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "CTheo_35": [
+                          "T167A",
+                          "H353Y"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0005620685180674398,
+                        "country": "Philippines",
+                        "country_confidence": {
+                          "Cambodia": 0.0012921957290855668,
+                          "Lao_PDR": 0.0018988724825270567,
+                          "Philippines": 0.5161823646425454,
+                          "Vietnam": 0.4800903435209114
+                        },
+                        "country_entropy": 0.7181625386490605,
+                        "date": "2013-08-30",
+                        "div": 0.01104369301518621,
+                        "location": "Mindanao",
+                        "location_confidence": {
+                          "Dong_Nai": 0.003355689434720094,
+                          "Mindanao": 0.8903997388901673,
+                          "Tay_Ninh": 0.08475865039230798,
+                          "_Yen_Bai": 0.00863750933315904
+                        },
+                        "location_entropy": 0.45591555660161887,
+                        "num_date": 2013.6634333017057,
+                        "num_date_confidence": [
+                          2012.792929895258,
+                          2013.9586461869105
+                        ]
+                      },
+                      "branch_length": 0.00056207,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00010083975485503929,
+                            "country": "Vietnam",
+                            "country_confidence": {
+                              "Vietnam": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2013-12-30",
+                            "div": 0.01104369301518621,
+                            "location": "Tay_Ninh",
+                            "location_confidence": {
+                              "Tay_Ninh": 0.9999999999999999
+                            },
+                            "location_entropy": -9.99866855976916e-13,
+                            "num_date": 2013.9993155373031,
+                            "num_date_confidence": [
+                              2013.2786730790378,
+                              2013.9993155373031
+                            ],
+                            "raw_date": "2013-XX-XX"
+                          },
+                          "branch_length": 0.00010084,
+                          "clade": 19,
+                          "muts": [],
+                          "strain": "TNi-2",
+                          "yvalue": 15
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0010025378434100787,
+                            "country": "Philippines",
+                            "country_confidence": {
+                              "Philippines": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2017-01-01",
+                            "div": 0.01104369301518621,
+                            "location": "Mindanao",
+                            "location_confidence": {
+                              "Mindanao": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2017.002737850787,
+                            "num_date_confidence": [
+                              2017.002737850787,
+                              2017.8744624511214
+                            ],
+                            "raw_date": "2017-XX-XX"
+                          },
+                          "branch_length": 0.00100254,
+                          "clade": 20,
+                          "muts": [],
+                          "strain": "Min-1",
+                          "yvalue": 14
+                        }
+                      ],
+                      "clade": 21,
+                      "muts": [
+                        "A499G",
+                        "T822C",
+                        "G837C",
+                        "C1057T"
+                      ],
+                      "strain": "NODE_0000012",
+                      "yvalue": 14.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0015624465727842635,
+                        "country": "Philippines",
+                        "country_confidence": {
+                          "Philippines": 0.9897042486451895,
+                          "Vietnam": 0.00966339548809767
+                        },
+                        "country_entropy": 0.060402392257222104,
+                        "date": "2016-12-29",
+                        "div": 0.006797093190922704,
+                        "location": "Mindanao",
+                        "location_confidence": {
+                          "Mindanao": 0.9977414359869061
+                        },
+                        "location_entropy": 0.0205655580779461,
+                        "num_date": 2016.9955439156595,
+                        "num_date_confidence": [
+                          2014.5402213306527,
+                          2017.5152520665858
+                        ]
+                      },
+                      "branch_length": 0.00156245,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 6.817004335614766e-05,
+                            "country": "Philippines",
+                            "country_confidence": {
+                              "Philippines": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2017-03-22",
+                            "div": 0.006797093190922704,
+                            "location": "Mindanao",
+                            "location_confidence": {
+                              "Mindanao": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2017.2226081979572,
+                            "num_date_confidence": [
+                              2017.002737850787,
+                              2017.9993155373031
+                            ],
+                            "raw_date": "2017-XX-XX"
+                          },
+                          "branch_length": 6.817e-05,
+                          "clade": 22,
+                          "muts": [],
+                          "strain": "Min-3",
+                          "yvalue": 13
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 6.817004335614766e-05,
+                            "country": "Philippines",
+                            "country_confidence": {
+                              "Philippines": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2017-03-22",
+                            "div": 0.006797093190922704,
+                            "location": "Mindanao",
+                            "location_confidence": {
+                              "Mindanao": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2017.2226081979572,
+                            "num_date_confidence": [
+                              2017.002737850787,
+                              2017.9993155373031
+                            ],
+                            "raw_date": "2017-XX-XX"
+                          },
+                          "branch_length": 6.817e-05,
+                          "clade": 23,
+                          "muts": [],
+                          "strain": "Min-2",
+                          "yvalue": 12
+                        }
+                      ],
+                      "clade": 24,
+                      "muts": [
+                        "C825T"
+                      ],
+                      "strain": "NODE_0000030",
+                      "yvalue": 12.5
+                    }
+                  ],
+                  "clade": 25,
+                  "muts": [
+                    "A49G",
+                    "C472T",
+                    "A655G",
+                    "G825C",
+                    "C909T",
+                    "T1123C"
+                  ],
+                  "strain": "NODE_0000011",
+                  "yvalue": 13.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 6.0278248493883003e-05,
+                    "country": "Vietnam",
+                    "country_confidence": {
+                      "Cambodia": 0.0030689379183650068,
+                      "Lao_PDR": 0.03744138208454157,
+                      "Philippines": 0.016164229100845615,
+                      "Vietnam": 0.9424408973937808
+                    },
+                    "country_entropy": 0.26951766539180894,
+                    "date": "2009-07-17",
+                    "div": 0.0016966761488841106,
+                    "location": "_Yen_Bai",
+                    "location_confidence": {
+                      "Dong_Nai": 0.13693199891427396,
+                      "Mindanao": 0.15238876992179162,
+                      "Salavan": 0.12533060338345825,
+                      "_Yen_Bai": 0.3952995259731858
+                    },
+                    "location_entropy": 1.8621911615458653,
+                    "num_date": 2009.5431249787289,
+                    "num_date_confidence": [
+                      2007.81551940914,
+                      2011.0165346851393
+                    ]
+                  },
+                  "branch_length": 6.028e-05,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "CTheo_35": [
+                          "E215G",
+                          "P370S",
+                          "P379S"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0031402220365141197,
+                        "country": "Lao_PDR",
+                        "country_confidence": {
+                          "Lao_PDR": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2020-01-01",
+                        "div": 0.004242289478835563,
+                        "location": "Salavan",
+                        "location_confidence": {
+                          "Salavan": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2020.002737850787,
+                        "num_date_confidence": [
+                          2020.002737850787,
+                          2020.8972965399491
+                        ],
+                        "raw_date": "2020-XX-XX"
+                      },
+                      "branch_length": 0.00314022,
+                      "clade": 26,
+                      "muts": [
+                        "A644G",
+                        "C1108T",
+                        "C1135T"
+                      ],
+                      "strain": "Sal-2",
+                      "yvalue": 11
+                    },
+                    {
+                      "aa_muts": {
+                        "CTheo_35": [
+                          "I39F"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0005508851676280049,
+                        "country": "Vietnam",
+                        "country_confidence": {
+                          "Lao_PDR": 0.00228609920888969,
+                          "Vietnam": 0.99638614502366
+                        },
+                        "country_entropy": 0.02739985680694559,
+                        "date": "2011-05-18",
+                        "div": 0.0025448502721190963,
+                        "location": "_Yen_Bai",
+                        "location_confidence": {
+                          "Dong_Nai": 0.2290251783721364,
+                          "Hoa_Binh": 0.0705905918275265,
+                          "Mindanao": 0.048132131252197834,
+                          "_Yen_Bai": 0.5446523429246095
+                        },
+                        "location_entropy": 1.4360001733412133,
+                        "num_date": 2011.3780415939707,
+                        "num_date_confidence": [
+                          2009.738006350814,
+                          2011.8354234401747
+                        ]
+                      },
+                      "branch_length": 0.00055089,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "CTheo_35": [
+                              "F163L"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.00048641700381084904,
+                            "country": "Vietnam",
+                            "country_confidence": {
+                              "Vietnam": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2012-12-30",
+                            "div": 0.0033926274674327688,
+                            "location": "_Yen_Bai",
+                            "location_confidence": {
+                              "_Yen_Bai": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2012.9982243374482,
+                            "num_date_confidence": [
+                              2012.002737850787,
+                              2013.0020533880904
+                            ],
+                            "raw_date": "2012-XX-XX"
+                          },
+                          "branch_length": 0.00048642,
+                          "clade": 27,
+                          "muts": [
+                            "T487C"
+                          ],
+                          "strain": "YBa-5",
+                          "yvalue": 10
+                        },
+                        {
+                          "aa_muts": {
+                            "CTheo_35": [
+                              "I368T"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.00018054354857618407,
+                            "country": "Vietnam",
+                            "country_confidence": {
+                              "Vietnam": 0.9999997195749363
+                            },
+                            "country_entropy": 4.614691265653514e-06,
+                            "date": "2011-12-23",
+                            "div": 0.0033926274674327688,
+                            "location": "Dong_Nai",
+                            "location_confidence": {
+                              "Dong_Nai": 0.7338277287807808,
+                              "Hoa_Binh": 0.2589821268847435,
+                              "Yen_Bai": 0.003117904606049563,
+                              "_Yen_Bai": 0.0018937005373361
+                            },
+                            "location_entropy": 0.6241313500296728,
+                            "num_date": 2011.979405320069,
+                            "num_date_confidence": [
+                              2011.4756318396787,
+                              2012.222525891638
+                            ]
+                          },
+                          "branch_length": 0.00018054,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.964786845410455e-05,
+                                "country": "Vietnam",
+                                "country_confidence": {
+                                  "Vietnam": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-03-06",
+                                "div": 0.003392627467432769,
+                                "location": "Yen_Bai",
+                                "location_confidence": {
+                                  "Yen_Bai": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2012.1780835044199,
+                                "num_date_confidence": [
+                                  2012.002737850787,
+                                  2013.0020533880904
+                                ],
+                                "raw_date": "2012-XX-XX"
+                              },
+                              "branch_length": 5.965e-05,
+                              "clade": 28,
+                              "muts": [],
+                              "strain": "YBa-1",
+                              "yvalue": 9
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.964786845410455e-05,
+                                "country": "Vietnam",
+                                "country_confidence": {
+                                  "Vietnam": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-03-06",
+                                "div": 0.003392627467432769,
+                                "location": "Dong_Nai",
+                                "location_confidence": {
+                                  "Dong_Nai": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2012.1780835044199,
+                                "num_date_confidence": [
+                                  2012.002737850787,
+                                  2013.0020533880904
+                                ],
+                                "raw_date": "2012-XX-XX"
+                              },
+                              "branch_length": 5.965e-05,
+                              "clade": 29,
+                              "muts": [],
+                              "strain": "DNa-1",
+                              "yvalue": 8
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.964786845410455e-05,
+                                "country": "Vietnam",
+                                "country_confidence": {
+                                  "Vietnam": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-03-06",
+                                "div": 0.003392627467432769,
+                                "location": "Dong_Nai",
+                                "location_confidence": {
+                                  "Dong_Nai": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2012.1780835044199,
+                                "num_date_confidence": [
+                                  2012.002737850787,
+                                  2013.0020533880904
+                                ],
+                                "raw_date": "2012-XX-XX"
+                              },
+                              "branch_length": 5.965e-05,
+                              "clade": 30,
+                              "muts": [],
+                              "strain": "DNa-2",
+                              "yvalue": 7
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.964786845410455e-05,
+                                "country": "Vietnam",
+                                "country_confidence": {
+                                  "Vietnam": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-03-06",
+                                "div": 0.003392627467432769,
+                                "location": "Hoa_Binh",
+                                "location_confidence": {
+                                  "Hoa_Binh": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2012.1780835044199,
+                                "num_date_confidence": [
+                                  2012.002737850787,
+                                  2013.0020533880904
+                                ],
+                                "raw_date": "2012-XX-XX"
+                              },
+                              "branch_length": 5.965e-05,
+                              "clade": 31,
+                              "muts": [],
+                              "strain": "HBi-2",
+                              "yvalue": 6
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 5.964786845410455e-05,
+                                "country": "Vietnam",
+                                "country_confidence": {
+                                  "Vietnam": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-03-06",
+                                "div": 0.003392627467432769,
+                                "location": "Hoa_Binh",
+                                "location_confidence": {
+                                  "Hoa_Binh": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2012.1780835044199,
+                                "num_date_confidence": [
+                                  2012.002737850787,
+                                  2013.0020533880904
+                                ],
+                                "raw_date": "2012-XX-XX"
+                              },
+                              "branch_length": 5.965e-05,
+                              "clade": 32,
+                              "muts": [],
+                              "strain": "HBi-1",
+                              "yvalue": 5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 6.426898036221125e-05,
+                                "country": "Vietnam",
+                                "country_confidence": {
+                                  "Cambodia": 0.3347176756949984,
+                                  "Lao_PDR": 0.010605564321407072,
+                                  "Vietnam": 0.6534893061812459
+                                },
+                                "country_entropy": 0.701357165365222,
+                                "date": "2012-03-11",
+                                "div": 0.003392627467432769,
+                                "location": "Dong_Nai",
+                                "location_confidence": {
+                                  "Dong_Nai": 0.36252533062577735,
+                                  "Hoa_Binh": 0.11071151840369807,
+                                  "Prey_Veng": 0.17590249276629452,
+                                  "Tay_Ninh": 0.1384205777630507
+                                },
+                                "location_entropy": 1.840504484733271,
+                                "num_date": 2012.1934757413494,
+                                "num_date_confidence": [
+                                  2011.7460769615057,
+                                  2012.8583339732359
+                                ]
+                              },
+                              "branch_length": 6.427e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.000240799749145924,
+                                    "country": "Vietnam",
+                                    "country_confidence": {
+                                      "Cambodia": 0.3604544241921092,
+                                      "Lao_PDR": 0.004485655897483333,
+                                      "Vietnam": 0.6338758781678202
+                                    },
+                                    "country_entropy": 0.6898076666675256,
+                                    "date": "2012-12-29",
+                                    "div": 0.0033926274674327696,
+                                    "location": "Tay_Ninh",
+                                    "location_confidence": {
+                                      "Dong_Nai": 0.10121656762869828,
+                                      "Kampong_Chan": 0.35069107963906243,
+                                      "Prey_Veng": 0.0457045646710812,
+                                      "Tay_Ninh": 0.4165926292717519
+                                    },
+                                    "location_entropy": 1.4802959565172393,
+                                    "num_date": 2012.9955439156595,
+                                    "num_date_confidence": [
+                                      2012.1767492839838,
+                                      2013.4639603967803
+                                    ]
+                                  },
+                                  "branch_length": 0.0002408,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 9.627617706906705e-05,
+                                        "country": "Cambodia",
+                                        "country_confidence": {
+                                          "Cambodia": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2013-04-25",
+                                        "div": 0.00339262746743277,
+                                        "location": "Kampong_Chan",
+                                        "location_confidence": {
+                                          "Kampong_Chan": 0.9999999999999999
+                                        },
+                                        "location_entropy": -9.99866855976916e-13,
+                                        "num_date": 2013.3162255519371,
+                                        "num_date_confidence": [
+                                          2013.002737850787,
+                                          2013.9993155373031
+                                        ],
+                                        "raw_date": "2013-XX-XX"
+                                      },
+                                      "branch_length": 9.628e-05,
+                                      "clade": 33,
+                                      "muts": [],
+                                      "strain": "KCh-1",
+                                      "yvalue": 4
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 9.627617706906705e-05,
+                                        "country": "Vietnam",
+                                        "country_confidence": {
+                                          "Vietnam": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2013-04-25",
+                                        "div": 0.00339262746743277,
+                                        "location": "Tay_Ninh",
+                                        "location_confidence": {
+                                          "Tay_Ninh": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2013.3162255519371,
+                                        "num_date_confidence": [
+                                          2013.002737850787,
+                                          2013.9993155373031
+                                        ],
+                                        "raw_date": "2013-XX-XX"
+                                      },
+                                      "branch_length": 9.628e-05,
+                                      "clade": 34,
+                                      "muts": [],
+                                      "strain": "TNi-1",
+                                      "yvalue": 3
+                                    }
+                                  ],
+                                  "clade": 35,
+                                  "muts": [],
+                                  "strain": "NODE_0000033",
+                                  "yvalue": 3.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.000240799749145924,
+                                    "country": "Cambodia",
+                                    "country_confidence": {
+                                      "Cambodia": 0.5713255176667387,
+                                      "Lao_PDR": 0.08537592940583645,
+                                      "Philippines": 0.0029577323255506375,
+                                      "Vietnam": 0.3381297012662469
+                                    },
+                                    "country_entropy": 0.9272955544363022,
+                                    "date": "2012-12-29",
+                                    "div": 0.0033926274674327696,
+                                    "location": "Prey_Veng",
+                                    "location_confidence": {
+                                      "Dong_Nai": 0.1537267749704792,
+                                      "Prey_Veng": 0.5159441689472891,
+                                      "Tay_Ninh": 0.05204612099652987,
+                                      "Vientiane": 0.13126356650708107
+                                    },
+                                    "location_entropy": 1.609116824134789,
+                                    "num_date": 2012.9955439156595,
+                                    "num_date_confidence": [
+                                      2012.217179933575,
+                                      2013.696198478396
+                                    ]
+                                  },
+                                  "branch_length": 0.0002408,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0030043952202768844,
+                                        "country": "Lao_PDR",
+                                        "country_confidence": {
+                                          "Lao_PDR": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2023-01-01",
+                                        "div": 0.00339262746743277,
+                                        "location": "Vientiane",
+                                        "location_confidence": {
+                                          "Vientiane": 0.9999999999999999
+                                        },
+                                        "location_entropy": -9.99866855976916e-13,
+                                        "num_date": 2023.002737850787,
+                                        "num_date_confidence": [
+                                          2023.002737850787,
+                                          2023.2724498498355
+                                        ],
+                                        "raw_date": "2023-XX-XX"
+                                      },
+                                      "branch_length": 0.0030044,
+                                      "clade": 36,
+                                      "muts": [],
+                                      "strain": "Vie-3",
+                                      "yvalue": 2
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.00027178606162313063,
+                                        "country": "Cambodia",
+                                        "country_confidence": {
+                                          "Cambodia": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2013-11-25",
+                                        "div": 0.00339262746743277,
+                                        "location": "Prey_Veng",
+                                        "location_confidence": {
+                                          "Prey_Veng": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2013.900822891332,
+                                        "num_date_confidence": [
+                                          2013.002737850787,
+                                          2013.9993155373031
+                                        ],
+                                        "raw_date": "2013-XX-XX"
+                                      },
+                                      "branch_length": 0.00027179,
+                                      "clade": 37,
+                                      "muts": [],
+                                      "strain": "PVe-1",
+                                      "yvalue": 1
+                                    }
+                                  ],
+                                  "clade": 38,
+                                  "muts": [],
+                                  "strain": "NODE_0000034",
+                                  "yvalue": 1.5
+                                }
+                              ],
+                              "clade": 39,
+                              "muts": [],
+                              "strain": "NODE_0000032",
+                              "yvalue": 2.5
+                            }
+                          ],
+                          "clade": 40,
+                          "muts": [
+                            "T1103C"
+                          ],
+                          "strain": "NODE_0000000",
+                          "yvalue": 5.75
+                        }
+                      ],
+                      "clade": 41,
+                      "muts": [
+                        "A115T"
+                      ],
+                      "strain": "NODE_0000008",
+                      "yvalue": 7.875
+                    }
+                  ],
+                  "clade": 42,
+                  "muts": [],
+                  "strain": "NODE_0000031",
+                  "yvalue": 9.4375
+                }
+              ],
+              "clade": 43,
+              "muts": [
+                "T130C",
+                "C397T"
+              ],
+              "strain": "NODE_0000009",
+              "yvalue": 11.46875
+            }
+          ],
+          "clade": 44,
+          "muts": [
+            "G332A"
+          ],
+          "strain": "NODE_0000014",
+          "yvalue": 14.359375
+        }
+      ],
+      "clade": 45,
+      "muts": [],
+      "strain": "NODE_0000026",
+      "yvalue": 18.2421875
+    }
+  ],
+  "clade": 46,
+  "muts": [],
+  "strain": "NODE_0000017",
+  "yvalue": 22.37109375
+}

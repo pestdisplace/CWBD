@@ -1,0 +1,215 @@
+{
+  "annotations": {
+    "CTheo_35": {
+      "end": 1200,
+      "start": 0,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 1200,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "Vietnam",
+          "#4928B4"
+        ],
+        [
+          "Cambodia",
+          "#4379CD"
+        ],
+        [
+          "Philippines",
+          "#5CA7A4"
+        ],
+        [
+          "Thailand",
+          "#A4BE56"
+        ],
+        [
+          "Lao_PDR",
+          "#DC2F24"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "fungu": {
+      "key": "fungus",
+      "legendTitle": "fungus",
+      "menuItem": "fungus",
+      "type": "discrete"
+    },
+    "location": {
+      "color_map": [
+        [
+          "Yen_Bai",
+          "#4334BF"
+        ],
+        [
+          "Yen__Bai",
+          "#3F50CC"
+        ],
+        [
+          "_Yen_Bai",
+          "#416CCE"
+        ],
+        [
+          "Hoa_Binh",
+          "#4784C7"
+        ],
+        [
+          "Dong_Nai",
+          "#5098B9"
+        ],
+        [
+          "Kratie",
+          "#5CA7A4"
+        ],
+        [
+          "Kampong_Chan",
+          "#6BB18E"
+        ],
+        [
+          "Prey_Veng",
+          "#7CB878"
+        ],
+        [
+          "Tay_Ninh",
+          "#A4BE56"
+        ],
+        [
+          "Mindanao",
+          "#B9BC4A"
+        ],
+        [
+          "Rayong",
+          "#CCB742"
+        ],
+        [
+          "Salavan",
+          "#0000FF"
+        ],
+        [
+          "Vientiane",
+          "#E39B39"
+        ]
+      ],
+      "key": "location",
+      "legendTitle": "location",
+      "menuItem": "location",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "country",
+    "location",
+    "fungus"
+  ],
+  "geo": {
+    "country": {
+      "Cambodia": {
+        "latitude": 12.05436,
+        "longitude": 106.40411
+      },
+      "Lao_PDR": {
+        "latitude": 18.144016,
+        "longitude": 102.743858
+      },
+      "Philippines": {
+        "latitude": 8.05063256,
+        "longitude": 124.925372
+      },
+      "Thailand": {
+        "latitude": 12.723902,
+        "longitude": 101.188227
+      },
+      "Vietnam": {
+        "latitude": 21.9823837,
+        "longitude": 104.5765841
+      }
+    },
+    "location": {
+      "Dong_Nai": {
+        "latitude": 10.560752,
+        "longitude": 106.59322
+      },
+      "Hoa_Binh": {
+        "latitude": 20.530609,
+        "longitude": 105.342401
+      },
+      "Kampong_Chan": {
+        "latitude": 11.92489,
+        "longitude": 105.6952
+      },
+      "Kratie": {
+        "latitude": 12.05436,
+        "longitude": 106.40411
+      },
+      "Mindanao": {
+        "latitude": 8.05063256,
+        "longitude": 124.925372
+      },
+      "Prey_Veng": {
+        "latitude": 11.6221,
+        "longitude": 105.72419
+      },
+      "Rayong": {
+        "latitude": 12.723902,
+        "longitude": 101.188227
+      },
+      "Salavan": {
+        "latitude": 15.711009,
+        "longitude": 106.423413
+      },
+      "Tay_Ninh": {
+        "latitude": 11.50004,
+        "longitude": 106.0189
+      },
+      "Vientiane": {
+        "latitude": 18.144016,
+        "longitude": 102.743858
+      },
+      "Yen_Bai": {
+        "latitude": 21.93482847,
+        "longitude": 104.617992
+      },
+      "Yen__Bai": {
+        "latitude": 21.9823837,
+        "longitude": 104.5765841
+      },
+      "_Yen_Bai": {
+        "latitude": 21.92597416,
+        "longitude": 104.7963273
+      }
+    }
+  },
+  "maintainer": [
+    "PestDisPlace",
+    "https://pestdisplace.org/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking of Cassava Witches Broom Disease",
+  "updated": "21 Apr 2023",
+  "virus_count": 28
+}
